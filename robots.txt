@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Design-Master2022.github.io/docs-d9degw/sitemap.xml
